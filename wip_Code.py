@@ -33,6 +33,6 @@ else:
     print("Goodbye!")
 
 #Remember:
-# Even though it took 5 hours to figure out, think about how happy you felt when you solved each problem! 
+# Even though it took MANY hours to figure out, think about how happy you felt when you solved each problem! 
 # From trying to get Python on Github to building a fun Guessing Game!
 # Struggle = Growth <3
