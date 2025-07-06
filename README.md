@@ -5,5 +5,3 @@ I know there are a lot of projects out there for rng guessing game, but this one
 I hope to continue to grow and to have more happy moments. As should you! 
 
 Thank you for reading this. :)  
-
--Working on making the intial rng number stay the same instead of it changing with each failed attempt. 
