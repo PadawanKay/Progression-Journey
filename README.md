@@ -1,7 +1,7 @@
-RNG Guessing Game with Python
+#RNG Guessing Game with Python
 
-I know there are a lot of projects out there for rng guessing game, but this one is special to me, even if it might make seasoned coders cringe... I've put myself in a situation to force myself to do trial and error. There were a lot of debugging moments and figuring out what is okay and what is not okay syntax. BUT When I got the first good run (the 'yes' vs 'no' boolean answer path), you would've thought I was watching a sport, seeing my favorite team score a goal! Fists in the air, yelling "F-YEA!! AHH! I DID IT!", My heart was racing! 
+I know there are a lot of RNG guessing game projects out there, but this one is special to me—even if it might make seasoned coders cringe. I created this project to push myself to learn and grow as a developer.
 
-I hope to continue to grow and to have more happy moments. As should you! 
+I hope to continue improving and to have more happy moments along the way. I wish the same for you!
 
-Thank you for reading this. :)  
+Thank you for reading this. :)
