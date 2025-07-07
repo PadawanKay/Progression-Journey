@@ -11,7 +11,7 @@ name = input("What's your name? ")
 print("Hello, " + name)
 user_input = input("Do you want to play a game? ")
 
-if user_input == 'yes':
+if user_input.lower() == 'yes':
     print("Good Choice!")
     print("You have 3 attempts to guess my number!")
     print("Hmmm, I'm thinking of a number between 1 and 5!")
@@ -33,11 +33,16 @@ if user_input == 'yes':
             print("AH! I wasn't supposed to win!")
             print("Please play again!")
 
-else:
+elif user_input.lower() == 'no':
     print("Oh...")
     print("Maybe next time, " + name)
     print("Goodbye!")
 
+else:
+    print("You might not know this... but it's a yes or no question...")
+    print("As a penalty " + name)
+    print("You get to start the game ALL over!")
+    print("Goodbye!")
 #Remember:
 # Even though it took manyhours to figure out, think about how happy you felt when you solved each problem!
 # Struggle = Growth <3
